@@ -1,0 +1,785 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"or",
+				"order_type"
+			],
+			[
+				"order",
+				"order_details"
+			],
+			[
+				"full",
+				"full_price"
+			],
+			[
+				"gift",
+				"giftcard_code"
+			],
+			[
+				"class",
+				"class_code"
+			],
+			[
+				"tracked",
+				"tracked_order"
+			],
+			[
+				"tra",
+				"tracking_id"
+			],
+			[
+				"opport",
+				"opportunity_handler"
+			],
+			[
+				"lead",
+				"lead_source_detail"
+			],
+			[
+				"lead_source",
+				"lead_source_detail"
+			],
+			[
+				"pur",
+				"purchased_class"
+			],
+			[
+				"Foreg",
+				"ForeignKey"
+			],
+			[
+				"aba",
+				"abandoned_cart"
+			],
+			[
+				"link_t",
+				"link_to_teacher"
+			],
+			[
+				"link",
+				"link_to_teacher"
+			],
+			[
+				"ma",
+				"max_length"
+			],
+			[
+				"Ema",
+				"EmailField"
+			],
+			[
+				"login",
+				"login_required"
+			],
+			[
+				"payment",
+				"payment_type"
+			],
+			[
+				"pay",
+				"payment_id"
+			],
+			[
+				"link_to",
+				"link_to_giftcard"
+			],
+			[
+				"HTT",
+				"HttpResponse"
+			],
+			[
+				"expe",
+				"experiences"
+			],
+			[
+				"experie",
+				"experience_type"
+			],
+			[
+				"exper",
+				"experience_type"
+			],
+			[
+				"text",
+				"TextField"
+			],
+			[
+				"Boo",
+				"BooleanField"
+			],
+			[
+				"SA",
+				"SALESFORCE_SECURITY_TOKEN"
+			],
+			[
+				"SALES",
+				"SALESFORCE_PASSWORD"
+			],
+			[
+				"SLES",
+				"SALESFORCE_USER"
+			],
+			[
+				"get",
+				"get_env_setting"
+			],
+			[
+				"language",
+				"language_slug"
+			],
+			[
+				"lan",
+				"language_slug"
+			],
+			[
+				"loc",
+				"location"
+			],
+			[
+				"url",
+				"url_parts"
+			],
+			[
+				"Https",
+				"HttpResponseRedirect"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"adn",
+				"advanceLightbox"
+			],
+			[
+				"HTTPR",
+				"HttpResponseBadRequest"
+			],
+			[
+				"waiting",
+				"waiting-patiently"
+			],
+			[
+				"form",
+				"formData"
+			],
+			[
+				"txt",
+				"text-align: "
+			],
+			[
+				"paddin",
+				"padding-bottom: "
+			],
+			[
+				"background",
+				"background-color: "
+			],
+			[
+				"backgro",
+				"background-color: "
+			],
+			[
+				"margin",
+				"margin-right: "
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"backgroun",
+				"background-repeat: "
+			],
+			[
+				"visual",
+				"visual-grid-index: "
+			],
+			[
+				"backg",
+				"background-color: "
+			],
+			[
+				"track",
+				"trackTwitterConversion"
+			],
+			[
+				"experience",
+				"experience_detail"
+			],
+			[
+				"location",
+				"location_slug"
+			],
+			[
+				"exp",
+				"experience-detail"
+			],
+			[
+				"Exp",
+				"ExperienceTypeAdmin"
+			],
+			[
+				"mode",
+				"ModelAdmin"
+			],
+			[
+				"For",
+				"ForeignKey"
+			],
+			[
+				"im",
+				"ImageField"
+			],
+			[
+				"ex",
+				"experience"
+			],
+			[
+				"ExperienceS",
+				"ExperienceSetAdmin"
+			],
+			[
+				"char",
+				"CharField"
+			],
+			[
+				"ad",
+				"advanced_experiences"
+			],
+			[
+				"context",
+				"context_dict"
+			],
+			[
+				"scroll",
+				"scrollWatched"
+			],
+			[
+				"sc",
+				"srollwatched"
+			],
+			[
+				"p",
+				"position: "
+			],
+			[
+				"font-",
+				"font-size: "
+			],
+			[
+				"back",
+				"background-color: "
+			],
+			[
+				"Experie",
+				"ExperienceFeatureAdmin"
+			],
+			[
+				"Expe",
+				"ExperienceFeatureInline"
+			],
+			[
+				"Man",
+				"ManyToManyField"
+			],
+			[
+				"Time",
+				"TimeStampedModel"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "abackend.sublime-project",
+			"settings":
+			{
+				"buffer_size": 111,
+				"line_ending": "Unix",
+				"name": "{"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 369.0,
+		"history":
+		[
+			"for i in range(10): print i",
+			"quit",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/michael/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/michael/Sites/fluentcity/templates/app/purchase-pages/class-purchase.html",
+		"/Users/michael/Sites/fluentcity/templates/app/purchase-pages/free-class-purchase.html",
+		"/Users/michael/Sites/fluentcity/static_source/js/main.js",
+		"/Users/michael/Sites/fluentcity/static_source/js/scrolling.js",
+		"/Users/michael/Sites/fluentcity/static_source/js/menu-functions.js",
+		"/Users/michael/Sites/fluentcity/static_source/js/waypoints.js",
+		"/Users/michael/Sites/fluentcity/static_source/js/menus.js",
+		"/Users/michael/Sites/fluentcity/app/emails.py",
+		"/Users/michael/Sites/fluentcity/app/helpers.py",
+		"/Users/michael/Sites/fluentcity/app/admin_views.py",
+		"/Users/michael/Sites/fluentcity/app/urls.py",
+		"/Users/michael/Sites/fluentcity/app/views.py",
+		"/Users/michael/Sites/fluentcity/templates/app/pages/private-lessons.html",
+		"/Users/michael/Sites/fluentcity/templates/app/nav/search-nav.html",
+		"/Users/michael/Sites/fluentcity/templates/app/nav/search-input.html",
+		"/Users/michael/Sites/fluentcity/templates/app/nav/purchase-nav.html",
+		"/Users/michael/Sites/fluentcity/templates/class-nav.html",
+		"/Users/michael/Sites/fluentcity/templates/min-nav.html",
+		"/Users/michael/Sites/fluentcity/templates/nav.html",
+		"/Users/michael/Sites/fluentcity/templates/purchase-nav.html",
+		"/Users/michael/Sites/fluentcity/templates/robots.txt",
+		"/Users/michael/Sites/fluentcity/templates/app/nav/top-nav.html",
+		"/Users/michael/Sites/fluentcity/templates/app/pages/teach.html",
+		"/Users/michael/Sites/fluentcity/templates/app/pages/order-success.html",
+		"/Users/michael/Sites/fluentcity/templates/app/pages/careers.html",
+		"/Users/michael/Sites/fluentcity/templates/app/nav/search-thumbnail.html",
+		"/Users/michael/Sites/fluentcity/templates/app/components/class/class-sharing.html",
+		"/Users/michael/Sites/fluentcity/templates/app/components/blog/blog-post.html",
+		"/Users/michael/Sites/fluentcity/app/models.py",
+		"/Users/michael/Sites/fluentcity/templates/app/components/class/class-detail-extra.html",
+		"/Users/michael/Sites/fluentcity/app/old_views.py",
+		"/Users/michael/Sites/fluentcity/templates/app/purchase-pages/private-lessons-purchase.html",
+		"/Users/michael/Sites/fluentcity/templates/app/purchase-pages/make-up-lessons.html",
+		"/Users/michael/Sites/fluentcity/templates/app/purchase-pages/gift-card-purchase.html",
+		"/Users/michael/Sites/fluentcity/templates/app/components/experience/experience-set.html",
+		"/Users/michael/Sites/fluentcity/templates/app/components/event/event-list-block.html",
+		"/Users/michael/Sites/fluentcity/templates/app/components/experience/feature-item.html",
+		"/Users/michael/Sites/fluentcity/templates/app/pages/class-list.html",
+		"/Users/michael/Sites/fluentcity/templates/app/pages/make-up-lessons.html",
+		"/Users/michael/Sites/fluentcity/templates/app/components/make-up-lesson/make-up-lessons-package.html",
+		"/Users/michael/Sites/fluentcity/templates/app/components/teacher/teacher-quote.html",
+		"/Users/michael/Sites/fluentcity/templates/app/pages/experience-list.html",
+		"/Users/michael/Sites/fluentcity/templates/app/components/misc/carousel.html",
+		"/Users/michael/Sites/fluentcity/templates/app/components/event/event-card.html",
+		"/Users/michael/Sites/fluentcity/templates/app/pages/index.html",
+		"/Users/michael/Sites/fluentcity/templates/app/components/event/event-container.html",
+		"/Users/michael/Sites/fluentcity/templates/app/forms/private-lessons-form.html",
+		"/Users/michael/Sites/fluentcity/templates/app/components/event/event-box.html",
+		"/Users/michael/Sites/fluentcity/templates/app/components/event/event-row.html",
+		"/Users/michael/Sites/fluentcity/templates/app/pages/event-list.html",
+		"/Users/michael/Sites/fluentcity/templates/app/pages/gift-cards.html",
+		"/Users/michael/Sites/fluentcity/templates/app/components/gift-card/gift-card-row.html",
+		"/Users/michael/Sites/fluentcity/templates/app/components/private-lesson/private-lessons-package.html",
+		"/Users/michael/Sites/fluentcity/templates/app/components/misc/icon-box.html",
+		"/Users/michael/Sites/fluentcity/templates/app/pages/contact.html",
+		"/Users/michael/Sites/fluentcity/templates/app/forms/standard-contact-form.html",
+		"/Users/michael/Sites/fluentcity/templates/app/components/misc/static-carousel.html",
+		"/Users/michael/Sites/fluentcity/templates/app/components/workshop/workshop-row.html",
+		"/Users/michael/Sites/fluentcity/templates/app/pages/teachers.html",
+		"/Users/michael/Sites/fluentcity/templates/app/components/misc/testimonial.html",
+		"/Users/michael/Sites/fluentcity/templates/app/components/teacher/teacher-box.html",
+		"/Users/michael/Sites/fluentcity/templates/app/teach.html",
+		"/Users/michael/Sites/fluentcity/app/admin.py",
+		"/Users/michael/Sites/fluentcity/templates/app/emails/base.html",
+		"/Users/michael/Sites/fluentcity/templates/app/emails/class-list.html",
+		"/Users/michael/Sites/fluentcity/templates/admin/order_change_form.html",
+		"/Users/michael/Sites/fluentcity/templates/admin/class_change_form.html",
+		"/Users/michael/Sites/fluentcity/requirements.txt",
+		"/Users/michael/Sites/fluentcity/fluentcity/settings/base.py",
+		"/Users/michael/Sites/fluentcity/templates/app/emails/class-detail-extra.html",
+		"/Users/michael/Sites/fluentcity/app/templatetags/intersection.py",
+		"/Users/michael/Sites/fluentcity/templates/app/components/experience/experience-list.html",
+		"/Users/michael/Sites/fluentcity/app/templatetags/whatever.py",
+		"/Users/michael/Sites/fluentcity/templates/app/components/class/class-detail-verbose-no-name.html",
+		"/Users/michael/Sites/fluentcity/static_source/sass/_typography.scss",
+		"/Users/michael/Sites/fluentcity/templates/admin/offer_wysiwyg_change_form.html",
+		"/Users/michael/Sites/fluentcity/fluentcity/settings/local.py",
+		"/Users/michael/Sites/fluentcity/app/opp.py",
+		"/Users/michael/Sites/fluentcity/static_source/sass/_colors.scss",
+		"/Users/michael/Sites/fluentcity/templates/error/quick-maitenance.html",
+		"/Users/michael/Sites/fluentcity/fluentcity/settings/heroku_base.py",
+		"/Users/michael/Library/Application Support/Steam/steamapps/common/Kerbal Space Program/saves/Jos/quicksave.sfs",
+		"/Users/michael/Sites/fluentcity/templates/app/blog/post.html",
+		"/Users/michael/Sites/fluentcity/templates/app/workshop-row.html",
+		"/Users/michael/Sites/fluentcity/app/details.views.py",
+		"/Users/michael/Sites/fluentcity/templates/app/pages/trips.html",
+		"/Users/michael/Sites/fluentcity/templates/app/pages/browse.html",
+		"/Users/michael/Sites/fluentcity/templates/app/pages/corporate.html",
+		"/Users/michael/Sites/fluentcity/templates/app/pages/about.html",
+		"/Users/michael/Sites/fluentcity/templates/app/lightbox/talk-to-a-teacher.html",
+		"/Users/michael/Sites/fluentcity/static_source/js/lightbox.js",
+		"/Users/michael/Sites/fluentcity/templates/index.html",
+		"/Users/michael/Sites/fluentcity/templates/app/pages/experience-detail.html",
+		"/Users/michael/Sites/fluentcity/static_source/js/tracking-tools.js",
+		"/Users/michael/Sites/fluentcity/wercker.yml",
+		"/Users/michael/Sites/fluentcity/app/tests.py",
+		"/Users/michael/Sites/fluentcity/templates/app/components/experience/no-experience-row.html",
+		"/Users/michael/Sites/fluentcity/templates/app/components/class/mobile-no-class-row.html",
+		"/Users/michael/Sites/fluentcity/templates/app/components/class/no-class-row.html",
+		"/Users/michael/Sites/fluentcity/templates/app/components/email-capture/get-classes-row.html",
+		"/Users/michael/Sites/fluentcity/templates/app/components/email-capture/not-sure-row.html",
+		"/Users/michael/Sites/fluentcity/templates/app/components/experience/mobile-no-experience-row.html",
+		"/Users/michael/Sites/fluentcity/app/old_test_views.py",
+		"/Users/michael/Sites/fluentcity/templates/app/lightbox/middle.html",
+		"/Users/michael/Sites/fluentcity/templates/app/private-lessons.html",
+		"/Users/michael/Sites/fluentcity/fluentcity/settings/middlewares.py",
+		"/Users/michael/Sites/fluentcity/fluentcity/settings/wercker.py",
+		"/Users/michael/Sites/fluentcity/templates/app/components/experience/experience-row.html",
+		"/Users/michael/Sites/fluentcity/app/sitemap.py",
+		"/Users/michael/Sites/fluentcity/static_source/sass/components/_event-list.scss",
+		"/Users/michael/Sites/fluentcity/static_source/sass/components/_class-row.scss",
+		"/Users/michael/Sites/fluentcity/static_source/sass/_helpers.scss",
+		"/Users/michael/Sites/fluentcity/static_source/sass/components/_email-capture.scss",
+		"/Users/michael/Sites/fluentcity/static_source/sass/components/_features.scss",
+		"/Users/michael/Sites/fluentcity/templates/app/components/experience/mobile-experience-row.html",
+		"/Users/michael/Sites/fluentcity/static_source/sass/_nav.scss",
+		"/Users/michael/Sites/fluentcity/static_source/sass/components/_experience-row.scss",
+		"/Users/michael/Sites/fluentcity/static_source/sass/components/_experience-list.scss",
+		"/Users/michael/Sites/fluentcity/fluentcity/settings/heroku.py",
+		"/Users/michael/Sites/fluentcity/fluentcity/settings/heroku-staging.py",
+		"/Users/michael/Sites/fluentcity/static_source/js/forms.js",
+		"/Users/michael/Sites/fluentcity/app/migrations/0035_auto_20150731_1538.py",
+		"/Users/michael/Sites/fluentcity/app/migrations/0001_initial.py",
+		"/Users/michael/Sites/fluentcity/app/migrations/0044_language_use_header_video.py",
+		"/Users/michael/Sites/fluentcity/app/migrations/0024_abandonedcart_lead.py",
+		"/Users/michael/Sites/fluentcity/static_source/sass/_forms.scss",
+		"/Users/michael/Sites/fluentcity/templates/app/components/class/class-purchase-row.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"app/static_source/js/",
+			"app/migrations/",
+			"",
+			"el",
+			"",
+			"app/migrations/",
+			"app/migrations"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"models",
+			"tracked_ord",
+			"order+",
+			"tracked_order",
+			"price",
+			"order",
+			"order_complete",
+			"sess",
+			"xidizer\\n\\t\\t\\t\\t\\tamount = \\d+.?\\d*(E-\\d+)?",
+			"iquidFuel\\n\\t\\t\\t\\t\\tamount = \\d+.?\\d*(E-\\d+)?",
+			"iquidFuel\\n\\t\\t\\t\\t\\tamount = \\d+(.\\d+)?(E-\\d+)?",
+			"xidizer\\n\\t\\t\\t\\t\\tamount = \\d+(.\\d+)?(E-\\d+)?",
+			"iquidFuel\\n\\t\\t\\t\\t\\tamount = \\d+(.\\d+)?(E-?\\d+)?",
+			"xidizer\\n\\t\\t\\t\\t\\tamount = \\d+(.\\d+)?(E-?\\d+)?",
+			"xidizer\\n\\t\\t\\t\\t\\tamount = \\d+(.\\d+)?",
+			"oxi",
+			"about",
+			"class_ty",
+			"form(",
+			"form",
+			"Event",
+			"helpers",
+			"order_deta",
+			"get_order_info_for",
+			"get_order",
+			"get_order_info_for",
+			"get_order_info",
+			"index",
+			"icon",
+			"sharing",
+			"class_,",
+			"class_.",
+			"class_ ",
+			"class_",
+			"chargeStripe",
+			"order_deails",
+			"teach_form",
+			"createOrder",
+			"purchase",
+			"form",
+			"testi",
+			"test",
+			"class(",
+			"customer",
+			"CustomerOrderForm",
+			",\n",
+			"processGiftCard",
+			"validateGiftCard",
+			"valentina kerman",
+			"venue",
+			"experience",
+			"email",
+			"process",
+			"langauge",
+			"detail",
+			"send_simple",
+			"bad_urls",
+			"included",
+			"except",
+			"old teach",
+			"teach",
+			"private-less",
+			"OrderEx",
+			"marketing",
+			"minsur 1",
+			"trackEmailOptIn",
+			"emailOptIn",
+			"emailopt",
+			"test",
+			"handle_cart",
+			"handle",
+			"aband",
+			"abandoned",
+			"line-height:",
+			".text",
+			"experience_list",
+			"experience_select|",
+			"experience_select",
+			"salesforce",
+			"test_",
+			"test",
+			"class_detail",
+			"default",
+			"test",
+			"EEEEE",
+			"Class\\(",
+			"experience_set",
+			"notes",
+			"<<<",
+			"***",
+			"head",
+			"video",
+			"header video",
+			"salesforce",
+			">\n",
+			"non",
+			"video",
+			"language\\(",
+			"updateSess",
+			"handleLead",
+			"lead_",
+			"			color: $bw-1 !important;\n		",
+			"feature",
+			";\n",
+			"text",
+			"lead",
+			"iter",
+			"large-half-col",
+			"large",
+			"2n",
+			"background",
+			"change",
+			"grapp",
+			"exists",
+			"track",
+			"scrollTo",
+			"video",
+			"experience_list",
+			"element",
+			";\n",
+			"%;\n",
+			"0003_auto_20150731_1538",
+			"easy_thumbnails.0003_auto_20150731_1538",
+			"easy",
+			"salesforce",
+			"salesforce.fields",
+			"sf",
+			"book\\("
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"xidizer\\n\\t\\t\\t\\t\\tamount = 22",
+			"iquidFuel\\n\\t\\t\\t\\t\\tamount = 22",
+			"xidizer\\n\\t\\t\\t\\t\\tamount = 18",
+			"xidizer\\n\\t\\t\\t\\t\\tamount = 22",
+			"klass,",
+			"klass.",
+			"klass ",
+			"charge_stripe",
+			"create_order",
+			"process_gift_card",
+			"validate_gift_card",
+			"language",
+			"old_test_",
+			"el",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "abackend.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 111,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								103,
+								103
+							]
+						],
+						"settings":
+						{
+							"auto_name": "{",
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "abackend.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 557.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 301.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
